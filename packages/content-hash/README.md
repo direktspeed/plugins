@@ -7,6 +7,7 @@
 [![size][size]][size-url]
 [![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 
+```js
 import {createHash} from 'crypto';
 
 const contentHash = (getHash)=>{
@@ -76,7 +77,7 @@ export default  {
     })]
 }
 
-
+```
 
 
 
